@@ -17,15 +17,15 @@ def render() -> None:
 	[
 		{
 			'wording': wording.get('about.become_a_member'),
-			'url': 'https://subscribe.facefusion.io'
+			'url': 'https://space.bilibili.com/341867068'
 		},
 		{
 			'wording': wording.get('about.join_our_community'),
-			'url': 'https://join.facefusion.io'
+			'url': 'https://space.bilibili.com/341867068'
 		},
 		{
 			'wording': wording.get('about.read_the_documentation'),
-			'url': 'https://docs.facefusion.io'
+			'url': 'https://space.bilibili.com/341867068'
 		}
 	])
 
