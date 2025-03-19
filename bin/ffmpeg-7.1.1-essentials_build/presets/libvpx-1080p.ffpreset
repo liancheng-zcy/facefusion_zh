@@ -1,19 +1,3 @@
-vcodec=libvpx
-
-g=120
-lag-in-frames=16
-deadline=good
-cpu-used=0
-vprofile=1
-qmax=51
-qmin=11
-slices=4
-b=2M
-
-#ignored unless using -pass 2
-maxrate=24M
-minrate=100k
-auto-alt-ref=1
-arnr-maxframes=7
-arnr-strength=5
-arnr-type=centered
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf0dca9d029e0aa29c242e5a7ecfb202a55ae41c1acdf5e2e59bf281a0136251
+size 227
