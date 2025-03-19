@@ -21,8 +21,10 @@ env/                 # conda虚拟环境
 
 ## 模型文件下载
 由于模型文件较大，请从以下链接下载：
-[模型文件下载链接](等待用户提供)
+[模型文件下载链接](https://pan.quark.cn/s/e8e32e5e3cd3)
 
-## 注意事项
-- 确保系统已安装Python 3.10
-- 首次运行会自动配置环境
+## 完整项目下载
+[完整项目](https://pan.quark.cn/s/e8e32e5e3cd3)
+
+## 感谢官方项目
+https://github.com/facefusion/facefusion
